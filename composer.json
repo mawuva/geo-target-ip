@@ -1,0 +1,42 @@
+{
+    "name": "mawuekom/geo-target-ip",
+    "description": "A package to geo targeting IP address",
+    "keywords": [
+        "mawuekom",
+        "geo-target-ip"
+    ],
+    "homepage": "https://github.com/mawuekom/geo-target-ip",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ephraïm Seddor",
+            "email": "seddorephraim7@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mawuekom\\GeoTargetIp\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Mawuekom\\GeoTargetIp\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
