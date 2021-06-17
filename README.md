@@ -1,10 +1,12 @@
-# Very short description of the package
+# Geo Target IP
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/mawuekom/geo-target-ip.svg?style=flat-square)](https://packagist.org/packages/mawuekom/geo-target-ip)
 [![Total Downloads](https://img.shields.io/packagist/dt/mawuekom/geo-target-ip.svg?style=flat-square)](https://packagist.org/packages/mawuekom/geo-target-ip)
-![GitHub Actions](https://github.com/mawuekom/geo-target-ip/actions/workflows/main.yml/badge.svg)
+![GitHub Actions](https://github.com/mawuva/geo-target-ip/actions/workflows/main.yml/badge.svg)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+A PHP package to geo targeting IP address.
+
+This package uses [Geoplugin API](http://www.geoplugin.com/)
 
 ## Installation
 
@@ -34,19 +36,6 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-### Security
-
-If you discover any security related issues, please email seddorephraim7@gmail.com instead of using the issue tracker.
-
-## Credits
-
--   [Ephraïm Seddor](https://github.com/mawuekom)
--   [All Contributors](../../contributors)
-
-## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-## PHP Package Boilerplate
-
-This package was generated using the [PHP Package Boilerplate](https://laravelpackageboilerplate.com) by [Beyond Code](http://beyondco.de/).
