@@ -1,12 +1,10 @@
 # Geo Target IP
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/mawuekom/geo-target-ip.svg?style=flat-square)](https://packagist.org/packages/mawuekom/geo-target-ip)
-[![Total Downloads](https://img.shields.io/packagist/dt/mawuekom/geo-target-ip.svg?style=flat-square)](https://packagist.org/packages/mawuekom/geo-target-ip)
-![GitHub Actions](https://github.com/mawuva/geo-target-ip/actions/workflows/main.yml/badge.svg)
+[![Latest Stable Version](https://poser.pugx.org/mawuekom/geo-target-ip/v)](https://packagist.org/packages/mawuekom/geo-target-ip) [![License](https://poser.pugx.org/mawuekom/geo-target-ip/license)](https://packagist.org/packages/mawuekom/geo-target-ip)
 
 A PHP package to geo targeting IP address.
 
-This package uses [Geoplugin API](http://www.geoplugin.com/)
+This package uses [Geoplugin API](http://www.geoplugin.com/) to get IP informations.
 
 ## Installation
 
