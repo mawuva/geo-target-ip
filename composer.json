@@ -10,7 +10,7 @@
     "type": "library",
     "authors": [
         {
-            "name": "Ephraïm Seddor",
+            "name": "Ephra\u00efm Seddor",
             "email": "seddorephraim7@gmail.com",
             "role": "Developer"
         }
@@ -19,6 +19,7 @@
         "php": "^7.4|^8.0"
     },
     "require-dev": {
+        "marcocesarato/php-conventional-changelog": "^1.10",
         "phpunit/phpunit": "^9.0"
     },
     "autoload": {
@@ -34,9 +35,14 @@
     "scripts": {
         "test": "vendor/bin/phpunit",
         "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
-
     },
     "config": {
         "sort-packages": true
-    }
+    },
+    "extra": {
+        "changelog": {
+            "source": "changelog.json"
+        }
+    },
+    "version": "0.0.4"
 }
