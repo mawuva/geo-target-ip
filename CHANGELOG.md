@@ -4,11 +4,6 @@
 All notable changes to this project will be documented in this file.
 <!--- END HEADER -->
 
-## [0.0.5](https://github.com/mawuva/geo-target-ip/compare/v0.0.4...v0.0.5) (2021-06-18)
-
-
----
-
 ## [0.0.4](https://github.com/mawuva/geo-target-ip/compare/v0.0.3...v0.0.4) (2021-06-18)
 
 
