@@ -1,6 +1,10 @@
 # Geo Target IP
 
+<<<<<<< HEAD
 [![License](https://poser.pugx.org/mawuekom/geo-target-ip/license)](https://packagist.org/packages/mawuekom/geo-target-ip)
+=======
+[![Latest Stable Version](https://poser.pugx.org/mawuekom/geo-target-ip/v)](https://packagist.org/packages/mawuekom/geo-target-ip) [![License](https://poser.pugx.org/mawuekom/geo-target-ip/license)](https://packagist.org/packages/mawuekom/geo-target-ip)
+>>>>>>> 6d02538e54553dcffee71f37031326e6df079156
 
 A PHP package to geo targeting IP address.
 
