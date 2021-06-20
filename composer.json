@@ -45,5 +45,6 @@
         "changelog": {
             "source": "changelog.json"
         }
-    }
+    },
+    "version": "1.0.2"
 }
