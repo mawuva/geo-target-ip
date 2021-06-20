@@ -16,7 +16,8 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0"
+        "php": "^7.4|^8.0",
+        "mawuekom/http-request-wrapper": "^1.4"
     },
     "require-dev": {
         "marcocesarato/php-conventional-changelog": "^1.10",
