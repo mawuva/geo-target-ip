@@ -17,13 +17,17 @@ composer require mawuekom/geo-target-ip
 ## Usage
 
 ```php
-// Usage description here
-```
+use Mawuekom\GeoTargetIp\GeoTargetIp;
 
-### Testing
+class Test
+{
+    use GeoTargetIp;
 
-```bash
-composer test
+    public function ipDetails()
+    {
+        return $this ->locate('125.0.0.4');
+    }
+}
 ```
 
 ### Changelog
